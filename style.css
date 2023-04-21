@@ -7,6 +7,10 @@ body {
 }
 
 #browser {
+  
+  width: 100vw;
+
+  height: 100vh;
 
   position: absolute;
 
@@ -18,9 +22,9 @@ body {
 
   right: 0;
   
-  width: 100vw;
 
-  height: 100vh;
+
+
 
 }
 
@@ -36,7 +40,7 @@ body {
 
   padding: 0 10px;
 
-}
+
 
 #url-input {
 
